@@ -1,0 +1,21 @@
+
+sum = 1.4 + 3 $
+subtraction = 5 - 7 $
+multiplication = 8 * 6 $
+division = 200 / 9 $
+op = 12.4 + 45 - 55 $
+
+firsVariable = 'NUNCA' $
+secondVariable = 'TE' $
+thirdVariable = 'RINDAS' $
+fourthVariable = firsVariable : secondVariable $
+fifthVariable = fourthVariable : thirdVariable $ 
+
+Repetition = # 4 * 'GOOL' $
+
+pantalla sum $
+pantalla subtraction $
+pantalla multiplication $
+pantalla division $
+pantalla complexOperation $
+pantalla Repetition $
